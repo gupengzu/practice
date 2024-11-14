@@ -1,0 +1,29 @@
+﻿  speechManager.cpp
+G:\c语言\c++练习\基于stl的演讲比赛流程管理系统\基于stl的演讲比赛流程管理系统\speechManager.cpp(250,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:         with
+G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:         [
+G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:             _Ty=float
+G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:         ]
+  (编译源文件“speechManager.cpp”)
+      G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(33,26):
+      模板实例化上下文(最早的实例化上下文)为
+          G:\c语言\c++练习\基于stl的演讲比赛流程管理系统\基于stl的演讲比赛流程管理系统\speechManager.cpp(135,16):
+          查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+          G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\numeric(42,17):
+          查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  
+  基于STL的演讲比赛流程管理系统.cpp
+  正在生成代码...
+  基于stl的演讲比赛流程管理系统.vcxproj -> G:\c语言\c++练习\基于stl的演讲比赛流程管理系统\x64\Debug\基于stl的演讲比赛流程管理系统.exe
