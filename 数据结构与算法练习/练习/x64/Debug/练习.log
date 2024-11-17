@@ -1,0 +1,4 @@
+﻿  两数之和.c
+G:\c语言\c++学习\VC\Tools\MSVC\14.41.34120\include\yvals_core.h(23,1): error C1189: #error:  error STL1003: Unexpected compiler, expected C++ compiler.
+  (编译源文件“两数之和.c”)
+  
