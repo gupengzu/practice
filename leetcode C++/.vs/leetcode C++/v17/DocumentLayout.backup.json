@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode C\u002B\u002B\\\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\2\u4E24\u6570\u76F8\u52A0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode C\u002B\u002B\\2\u4E24\u6570\u76F8\u52A0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp",
+              "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp",
+              "RelativeDocumentMoniker": "leetcode C\u002B\u002B\\\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp",
+              "ToolTip": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp",
+              "RelativeToolTip": "leetcode C\u002B\u002B\\\u4F2A3\u65E0\u91CD\u590D\u5B57\u7B26\u7684\u6700\u957F\u5B57\u4E32\uFF08\u5B9E\u9645\u4E0A\u662F\u5B50\u5E8F\u5217\uFF09.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T10:47:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "2\u4E24\u6570\u76F8\u52A0.cpp",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\2\u4E24\u6570\u76F8\u52A0.cpp",
               "RelativeDocumentMoniker": "leetcode C\u002B\u002B\\2\u4E24\u6570\u76F8\u52A0.cpp",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "35\u641C\u7D22\u63D2\u5165\u4F4D\u7F6E.cpp",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\35\u641C\u7D22\u63D2\u5165\u4F4D\u7F6E.cpp",
               "RelativeDocumentMoniker": "leetcode C\u002B\u002B\\35\u641C\u7D22\u63D2\u5165\u4F4D\u7F6E.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "leetcode C\u002B\u002B\\35\u641C\u7D22\u63D2\u5165\u4F4D\u7F6E.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-14T13:56:18.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T13:56:18.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "27\u79FB\u9664\u5143\u7D20.cpp",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\27\u79FB\u9664\u5143\u7D20.cpp",
               "RelativeDocumentMoniker": "leetcode C\u002B\u002B\\27\u79FB\u9664\u5143\u7D20.cpp",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "26\u5220\u9664\u6709\u5E8F\u6570\u7EC4\u4E2D\u7684\u91CD\u590D\u9879.cpp",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\26\u5220\u9664\u6709\u5E8F\u6570\u7EC4\u4E2D\u7684\u91CD\u590D\u9879.cpp",
               "RelativeDocumentMoniker": "leetcode C\u002B\u002B\\26\u5220\u9664\u6709\u5E8F\u6570\u7EC4\u4E2D\u7684\u91CD\u590D\u9879.cpp",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "\u4E24\u6570\u4E4B\u548C.cpp",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\leetcode C\u002B\u002B\\leetcode C\u002B\u002B\\\u4E24\u6570\u4E4B\u548C.cpp",
               "RelativeDocumentMoniker": "leetcode C\u002B\u002B\\\u4E24\u6570\u4E4B\u548C.cpp",
