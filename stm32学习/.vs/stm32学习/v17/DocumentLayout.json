@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u4E32\u53E3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u4E32\u53E3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c",
+              "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c",
+              "RelativeDocumentMoniker": "\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c",
+              "ToolTip": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c",
+              "RelativeToolTip": "\u7A7A\u95F2\u4E2D\u65AD\u4E0EDMA.c",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAcwOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-03T03:34:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u4E32\u53E3.c",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u4E32\u53E3.c",
               "RelativeDocumentMoniker": "\u4E32\u53E3.c",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\u901A\u8FC7\u6309\u952E\u63A7\u5236\u706F\u4EAE\u706D.c",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u901A\u8FC7\u6309\u952E\u63A7\u5236\u706F\u4EAE\u706D.c",
               "RelativeDocumentMoniker": "\u901A\u8FC7\u6309\u952E\u63A7\u5236\u706F\u4EAE\u706D.c",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "\u901A\u8FC7\u6309\u952E\u63A7\u5236\u706F\u4EAE\u706D.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-30T02:24:53.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T02:24:53.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\u70B9\u706F.c",
               "DocumentMoniker": "G:\\c\u8BED\u8A00\\github\u8FDC\u7A0B\u4ED3\u5E93\\practice\\stm32\u5B66\u4E60\\\u70B9\u706F.c",
               "RelativeDocumentMoniker": "\u70B9\u706F.c",
