@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\easyX\u5B66\u4E60",
-    "\\easyX\u5B66\u4E60\\x64"
+    "\\easyX\u5B66\u4E60\\x64",
+    "\\x64",
+    "\\x64\\Debug"
   ],
-  "SelectedNode": "\\\u7EC3\u4E60.cpp",
+  "SelectedNode": "\\\u7CBE\u7075\u52A8\u753B\u4E0E\u64AD\u653E\u97F3\u4E50.cpp",
   "PreviewInSolutionExplorer": false
 }
